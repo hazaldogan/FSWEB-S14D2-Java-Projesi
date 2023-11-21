@@ -50,7 +50,7 @@ Sınıf yazmaya doyduğunuz bir proje olması dileklerimle....
 ### Bedroom 
 * Bedroom isimli bir sınıf oluşturunuz.
 * Bu sınıfın 10 tane ```instance variable``` değeri olmalı. ```name``` String tipinde. ```wall1 wall2 wall3 wall4``` Wall tipinde. ```ceiling``` Ceiling tipinde.
-  ```bed``` Bed tipinde. ```lamp``` Lamp tipinde. ```wardrobe``` Wardrobe tipinde. ```carpet``` Carpet tipinde.
+  ```bed``` Bed tipinde. ```bedroom``` Lamp tipinde. ```wardrobe``` Wardrobe tipinde. ```carpet``` Carpet tipinde.
 * Sınıfımızın ```constructor``` metodu tek olmalı ve 10 değişkeni de almalı. 
 * getter metodlarını eklemelisiniz.
 
